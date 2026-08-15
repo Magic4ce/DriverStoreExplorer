@@ -118,28 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Button_Add_Package" xml:space="preserve">
-    <value>Treiber &amp;hinzufügen</value>
+    <value>Stuurprogramma &amp;toevoegen</value>
   </data>
   <data name="Button_Delete_Package" xml:space="preserve">
-    <value>Treiber &amp;löschen</value>
+    <value>stuurprogramma &amp;verwijderen</value>
   </data>
   <data name="Button_OK" xml:space="preserve">
     <value>&amp;OK</value>
   </data>
   <data name="Button_Refresh" xml:space="preserve">
-    <value>&amp;Aktualisieren</value>
+    <value>&amp;Aktualiseren</value>
   </data>
   <data name="Button_Select_Old" xml:space="preserve">
-    <value>Alte Treiber au&amp;swählen</value>
+    <value>Oud stuurprogramma au&amp;selekteren</value>
   </data>
   <data name="Check_Force_Delete" xml:space="preserve">
     <value>Löschen &amp;erzwingen</value>
   </data>
   <data name="Check_Install_Driver" xml:space="preserve">
-    <value>Treiber &amp;installieren</value>
+    <value>Stuurprogramma &amp;installeren</value>
   </data>
   <data name="Column_Date" xml:space="preserve">
-    <value>Treiberdatum</value>
+    <value>Driverdatum</value>
   </data>
   <data name="Column_Driver_Class" xml:space="preserve">
     <value>Gerätetyp</value>
@@ -160,7 +160,7 @@
     <value>Größe</value>
   </data>
   <data name="Column_Version" xml:space="preserve">
-    <value>Treiberversion</value>
+    <value>stuurprogrammaversie</value>
   </data>
   <data name="Context_Delete" xml:space="preserve">
     <value>&amp;Löschen</value>
@@ -202,10 +202,10 @@
     <value>Sind Sie sicher?</value>
   </data>
   <data name="Message_Title_Warning" xml:space="preserve">
-    <value>Warnung</value>
+    <value>Waarschuwing</value>
   </data>
   <data name="Operations_Text" xml:space="preserve">
-    <value>Aktionen</value>
+    <value>Akties</value>
   </data>
   <data name="Product_Name" xml:space="preserve">
     <value>Driver Store Explorer</value>
@@ -220,10 +220,10 @@
     <value>[TIPP: Der Treiber scheint noch in Verwendung zu sein. Versuchen Sie, das Löschen des Treiberpakets zu erzwingen.]</value>
   </data>
   <data name="Menu_Help" xml:space="preserve">
-    <value>&amp;Hilfe</value>
+    <value>&amp;Help</value>
   </data>
   <data name="Menu_Help_About" xml:space="preserve">
-    <value>&amp;Über</value>
+    <value>&amp;Over</value>
   </data>
   <data name="Menu_File" xml:space="preserve">
     <value>&amp;Datei</value>
@@ -274,7 +274,7 @@ Lizenz:
 </value>
   </data>
   <data name="UnitTest_Language" xml:space="preserve">
-    <value>Deutsch</value>
+    <value>Nederlands</value>
   </data>
   <data name="Dialog_Export_Filters" xml:space="preserve">
     <value>CSV-Dateien | *.csv</value>
